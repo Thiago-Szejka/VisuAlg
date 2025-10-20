@@ -1,7 +1,7 @@
-Algoritmo "Exercício 3"
-// Disciplina   : Algoritmos e programção
+Algoritmo "ExercÃ­cio 4"
+// Disciplina   : Algoritmos e programÃ§Ã£o
 // Professor    : Diogenes
-// Descrição   : Código usando valores digitados pelo usuer, retorna a média, usando variáveis
+// DescriÃ§Ã£o   : CÃ³digo usando valores digitados pelo usuer, retorna a mÃ©dia, usando variÃ¡veis
 // Autor(a)    : Thiago Vinicius Szejka
 // Data atual  : 14/10/2025
 
@@ -13,7 +13,7 @@ soma: real
 media: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 escreva("Digite o valor de A: ")
 leia(a)
 escreva("Digite o valor de B: ")
@@ -27,6 +27,7 @@ soma <- a + b + c + d
 media <- soma / 4
 
 escreval(media)
+
 
 
 
