@@ -1,7 +1,7 @@
-Algoritmo "ExercÌcio 3"
-// Disciplina   : Algoritmos e programÁ„o
+Algoritmo "Exerc√≠cio 5"
+// Disciplina   : Algoritmos e program√ß√£o
 // Professor    : Diogenes
-// DescriÁ„o   : CÛdigo usando valores digitados pelo usuer, retorna c·lculos, usando vari·veis
+// Descri√ß√£o   : C√≥digo usando valores digitados pelo usuer, retorna c√°lculos, usando vari√°veis
 // Autor(a)    : Thiago Vinicius Szejka
 // Data atual  : 14/10/2025
 
@@ -31,6 +31,7 @@ escreva("Valor de y:")
 escreval(y)
 escreva("Valor de z:")
 escreval(z)
+
 
 
 Fimalgoritmo
