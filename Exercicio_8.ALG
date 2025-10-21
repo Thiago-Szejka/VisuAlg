@@ -1,7 +1,7 @@
-Algoritmo "Exercício 8"
-// Disciplina   : Algoritmos e programção
+Algoritmo "ExercÃ­cio 8"
+// Disciplina   : Algoritmos e programÃ§Ã£o
 // Professor    : Diogenes
-// Descrição   : Código usando valores digitados pelo usuer, retorna a área de um retângulo
+// DescriÃ§Ã£o   : CÃ³digo para calcular a quantia de dias em que vocÃª estÃ¡ vivo
 // Autor(a)    : Thiago Vinicius Szejka
 // Data atual  : 21/10/2025
 Var
@@ -14,9 +14,9 @@ idade_total: real
 
 Inicio
 
-escreva("Digite o valor de anos que você tem: ")
+escreva("Digite o valor de anos que vocÃª tem: ")
 leia(idade_anos)
-escreva("Digite o valor do mês em que nasceu: ")
+escreva("Digite o valor do mÃªs em que nasceu: ")
 leia(idade_meses)
 escreva("Digite o valor do dia em que nasceu: ")
 leia(idade_dias)
@@ -27,8 +27,9 @@ idade_meses <- idade_meses*30
 idade_total <- idade_anos + idade_meses + idade_dias
 
 
-escreva("A quantidade de dias em que você está vivo é ")
+escreva("A quantidade de dias em que vocÃª estÃ¡ vivo Ã© ")
 escreval(idade_total)
+
 
 
 Fimalgoritmo
