@@ -1,9 +1,9 @@
-Algoritmo "Exercício 11"
-// Disciplina   : Algoritmos e programção
+Algoritmo "ExercÃ­cio 11"
+// Disciplina   : Algoritmos e programÃ§Ã£o
 // Professor    : Diogenes
-// Descrição   : Código para calcular a área de um círculo e seu comprimento
+// DescriÃ§Ã£o   : CÃ³digo para calcular a Ã¡rea de um cÃ­rculo e seu comprimento
 // Autor(a)    : Thiago Vinicius Szejka
-// Data atual  : 21/10/2025
+// Data atual  : 28/10/2025
 Var
 
 
@@ -21,10 +21,11 @@ comprimento <- 2*pi*raio
 raio <-raio * raio
 area <- raio*pi
 
-escreva("A área é: ")
+escreva("A Ã¡rea Ã©: ")
 escreval(area)
-escreva("O comprimento é: ")
+escreva("O comprimento Ã©: ")
 escreval(comprimento)
+
 
 
 
