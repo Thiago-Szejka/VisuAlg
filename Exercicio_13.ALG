@@ -1,22 +1,23 @@
-Algoritmo "Exercício 13"
-// Disciplina   : Algoritmos e programção
+Algoritmo "ExercÃ­cio 13"
+// Disciplina   : Algoritmos e programaÃ§Ã£o
 // Professor    : Diogenes
-// Descrição   : Código para usar váriaveis internas
-// Autor(a)    : Thiago Vinicius Szejka
-// Data atual  : 21/10/2025
+// DescriÃ§Ã£o    : CÃ³digo para veficar se a variÃ¡vel estÃ¡ dentro da condiÃ§Ã£o
+// Autor(a)     : Thiago Vinicius Szejka
+// Data atual   : 28/10/2025
+
 Var
-x: real
+   x: real
+
 Inicio
+   escreva("Digite x: ")
+   leia(x)
 
-escreva("Digite x: ")
-leia(x)
+   se (x > 10) e (x < 35) entao
+      escreval("X estÃ¡ dentro da condiÃ§Ã£o")
+   senao
+      escreval("X nÃ£o estÃ¡ dentro da condiÃ§Ã£o")
+   fimse
 
-se 10 < x < 35 entao
-   escreval("X está dentro da condição")
-senao entao
-   escreval("X não está dentro da condição")
-fimse
-
-
+Fimalgoritmo
 
 Fimalgoritmo
