@@ -1,9 +1,9 @@
-Algoritmo "ExercÌcio 12"
-// Disciplina   : Algoritmos e programÁ„o
+Algoritmo "Exerc√≠cio 12"
+// Disciplina   : Algoritmos e program√ß√£o
 // Professor    : Diogenes
-// DescriÁ„o   : CÛdigo para usar v·riaveis internas
+// Descri√ß√£o   : C√≥digo para usar v√°riaveis internas
 // Autor(a)    : Thiago Vinicius Szejka
-// Data atual  : 21/10/2025
+// Data atual  : 28/10/2025
 Var
 s,c,t,gr,rg: real
 Inicio
@@ -37,6 +37,7 @@ escreval(gr)
 escreva("L: ")
 rg <- RadpGrau(500)
 escreval(rg)
+
 
 
 
